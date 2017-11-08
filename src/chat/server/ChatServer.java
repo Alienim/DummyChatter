@@ -2,8 +2,8 @@ package chat.server;
 
 import chat.common.*;
 
-/*
- * 
+/**
+ * @author EKPARK
  */
 
 public class ChatServer {
